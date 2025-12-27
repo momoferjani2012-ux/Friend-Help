@@ -1,0 +1,9 @@
+{
+  "name": "Friend&Help",
+  "description": "A futuristic AI companion for daily emotional synchronization and life guidance.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
